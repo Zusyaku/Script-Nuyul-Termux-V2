@@ -1,0 +1,9 @@
+<?
+
+// PERHATIKAN CARA ADMIN ISI DATA
+// JANGAN LUPA DUKUNG CHANNEL ADMIN
+// JANGAN LUPA UDUD SAMA KOPI
+
+$useragent = "$$$$$$";
+
+$cookie = "$$$$$$";
