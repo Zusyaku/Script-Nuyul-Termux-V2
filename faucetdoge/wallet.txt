@@ -1,0 +1,4 @@
+#input address dibawah,unlimited 1 baris = 1 address doge
+DNHFNXqA6d1igWE6U7WSHcsqXLn4f1NQ6v
+D6RLotN4L5geQ9pym8z9WL664zabC4BPKw
+DKVh4aQ1cNoJX37ZpHNY7mVkCYmggWY7Lz
